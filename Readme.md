@@ -4,8 +4,6 @@ No Pilots, No Demos presents...
 ## A Neural Network that Reads Legal Pages for You
 
 * Koding URL: http://aphelionz.koding.io
-* Client Github URL: https://github.com/npnd/global.hackathon/tree/master/Project
-* Server Github URL: https://github.com/aphelionz/ToSBotNeuralNetwork
 
 Note: There is a mirror of the client and server code in the src subfolder of our team folder as well.
 
