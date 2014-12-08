@@ -5,8 +5,6 @@ No Pilots, No Demos presents...
 
 * Koding URL: http://aphelionz.koding.io
 
-Note: There is a mirror of the client and server code in the src subfolder of our team folder as well.
-
 ### Description
 
 
